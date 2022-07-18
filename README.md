@@ -1,23 +1,17 @@
 ### Hi Everyone! My name is Rafi Wirawan👋
 
-I Graduated from S1 Material Engineering at Sepuluh Nopember Institute of Technology.
+I am a Goal-directed and analytical data enthusiast with engineering bachelor background. Experienced 2+ years of working in Oil & Gas Industry, Fertilizer Industry, FMCG, and Food & Beverages Industry. Passionate in the field of data analysis and data science. Mastered fundamental of data science in 6 months of Data Sciences Bootcamp. Developed 2 personal projects with insightful data visualization and effective machine learning application. 
 
-Soft skills in the term of organization obtained from 2 years experience in the Student Executive Board of Faculty, specifically:
+Here are some skills i have learned through my experiences :
 
-1. Public Speaking🔭
-2. Leadership🌱
-3. Team Management👯
-4. Team work😄
-5. Project Management💬
+1. Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.🌱
+2. Problem-solving aptitude.👯
+3. Excellent communication and presentation skills.💬
+4. Have knowledge of Queries and SQL.📫
+5. Conducts research to support business needs.😄
+6. Knowledge of Python for data analysis and statistical modelling.⚡
 
-Has more than 2 years of working experience in various industrial fields, including:
- 
-1. Internship experience in the Fertilizer Industry for 1 month
-2. Part-Time experience in Food and Beverages company for 1 year
-3. Internship experience in FMCG company for 1 year & 6 months
-4. Experience as a contract worker in an Oil and Gas company untill now
-
-I open for any great opportunity, please do not hesitate to reach my email :)
+I open for any great opportunity, please do not hesitate to reach my direct message :)
 
 <!--
 **rafiwirawan/rafiwirawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
